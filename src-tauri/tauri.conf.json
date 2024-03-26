@@ -14,9 +14,6 @@
       "shell": {
         "all": false,
         "open": true
-      },
-      "dialog": {
-        "all": true
       }
     },
     "systemTray": {
